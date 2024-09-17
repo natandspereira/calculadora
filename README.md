@@ -1,8 +1,7 @@
 # Nome do Projeto
 ## Calculadora
 
-### Desenvolvido por 
-Natan Pereira
+### Desenvolvido por: ## Natan Pereira
 
 
 ### Linguagens usadas
