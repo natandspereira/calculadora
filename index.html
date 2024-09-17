@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/index.css">
+    <script src="./assets/script/index.js" defer></script>
+    <title>Calculadora</title>
+</head>
+
+<body>
+    <div class="calculadora">
+        
+        <div class="divBtn">
+            <p id="display">0</p>
+            <button type="button" value="7" class="numero" onclick="inserirValor(7)">7</button>
+            <button type="button" value="8" class="numero" onclick="inserirValor(8)">8</button> 
+            <button type="button" value="9" class="numero" onclick="inserirValor(9)">9</button>
+            <button type="button" value="+" class="operador" onclick="inserirValor('+')">+</button>
+            <button type="button" value="4" class="numero" onclick="inserirValor(4)">4</button>
+            <button type="button" value="5" class="numero" onclick="inserirValor(5)">5</button>
+            <button type="button" value="6" class="numero" onclick="inserirValor(6)">6</button>
+            <button type="button" value="." class="operador" onclick="inserirValor('.')">.</button>
+            <button type="button" value="1" class="numero" onclick="inserirValor(1)">1</button>
+            <button type="button" value="2" class="numero" onclick="inserirValor(2)">2</button>
+            <button type="button" value="3" class="numero" onclick="inserirValor(3)">3</button>
+            <button type="button" value="/" class="operador" onclick="inserirValor('/')">/</button>
+            <button type="button" value="C" class="" onclick="limparDisplay()">C</button>
+            <button type="button" value="0" class="numero" onclick="inserirValor(0)">0</button>
+            <button type="button" value="=" class="operador" onclick="calcular()">=</button>
+            <button type="button" value="%" class="operador" onclick="inserirValor('*')">*</button>
+        </div>
+    </div>
+</body>
+
+</html>
