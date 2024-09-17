@@ -1,7 +1,6 @@
 # Nome do Projeto
 ## Calculadora
 
-
 ### Desenvolvido por 
 Natan Pereira
 
