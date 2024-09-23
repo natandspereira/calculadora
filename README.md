@@ -1,4 +1,4 @@
-# Nome do Projeto 
+### Nome do Projeto 
 Calculadora
 
 ### Desenvolvido por 
@@ -11,5 +11,5 @@ Natan Pereira
 ### Descrição 
 É uma aplicação web simples que serve para realizar operações matemáticas básicas.
 
-### Funccionalidades
+### Funcionalidades
 Permite realizar operações como adição, subtração, multiplicação e divisão.
